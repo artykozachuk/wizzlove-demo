@@ -1,0 +1,1 @@
+"use strict";var burger=document.getElementById("checkbox-burger");burger.addEventListener("click",function(){document.documentElement.classList.toggle("overflow-hidden")});
